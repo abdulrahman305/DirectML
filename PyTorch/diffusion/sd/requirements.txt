@@ -4,3 +4,4 @@ numpy==1.26.4
 Pillow==10.4.0
 scipy==1.14.0
 transformers==4.42.3
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
