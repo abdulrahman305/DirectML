@@ -4,3 +4,4 @@ tqdm
 matplotlib
 cifar2png
 urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
+fonttools>=4.61.0 # not directly required, pinned by Snyk to avoid a vulnerability
